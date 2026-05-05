@@ -1,0 +1,201 @@
+[
+    {
+        "id": 1,
+        "name": "Lionel Messi",
+        "club": "Inter Miami",
+        "nationality": "Argentina",
+        "age": 38,
+        "position": "Forward",
+        "statistics": {
+            "Overall": 91,
+            "Pace": 76,
+            "Shooting": 92,
+            "Passing": 91,
+            "Dribbling": 93,
+            "Defending": 38,
+            "Physical": 65
+        }
+    },
+    {
+        "id": 2,
+        "name": "Cristiano Ronaldo",
+        "club": "Al Nassr",
+        "nationality": "Portugal",
+        "age": 39,
+        "position": "Forward",
+        "statistics": {
+            "Overall": 90,
+            "Pace": 83,
+            "Shooting": 93,
+            "Passing": 82,
+            "Dribbling": 87,
+            "Defending": 34,
+            "Physical": 77
+        }
+    },
+    {
+        "id": 3,
+        "name": "Neymar",
+        "club": "Al Hilal",
+        "nationality": "Brazil",
+        "age": 33,
+        "position": "Forward",
+        "statistics": {
+            "Overall": 88,
+            "Pace": 86,
+            "Shooting": 84,
+            "Passing": 86,
+            "Dribbling": 93,
+            "Defending": 36,
+            "Physical": 64
+        }
+    },
+    {
+        "id": 4,
+        "name": "Kylian Mbappé",
+        "club": "Real Madrid",
+        "nationality": "France",
+        "age": 25,
+        "position": "Forward",
+        "statistics": {
+            "Overall": 93,
+            "Pace": 98,
+            "Shooting": 91,
+            "Passing": 82,
+            "Dribbling": 93,
+            "Defending": 38,
+            "Physical": 80
+        }
+    },
+    {
+        "id": 5,
+        "name": "Erling Haaland",
+        "club": "Manchester City",
+        "nationality": "Norway",
+        "age": 24,
+        "position": "Forward",
+        "statistics": {
+            "Overall": 92,
+            "Pace": 90,
+            "Shooting": 95,
+            "Passing": 75,
+            "Dribbling": 80,
+            "Defending": 45,
+            "Physical": 89
+        }
+    },
+    {
+        "id": 6,
+        "name": "Vinícius Júnior",
+        "club": "Real Madrid",
+        "nationality": "Brazil",
+        "age": 24,
+        "position": "Forward",
+        "statistics": {
+            "Overall": 89,
+            "Pace": 95,
+            "Shooting": 84,
+            "Passing": 81,
+            "Dribbling": 91,
+            "Defending": 29,
+            "Physical": 69
+        }
+    },
+    {
+        "id": 7,
+        "name": "Kevin De Bruyne",
+        "club": "Manchester City",
+        "nationality": "Belgium",
+        "age": 33,
+        "position": "Midfielder",
+        "statistics": {
+            "Overall": 91,
+            "Pace": 74,
+            "Shooting": 86,
+            "Passing": 93,
+            "Dribbling": 87,
+            "Defending": 64,
+            "Physical": 78
+        }
+    },
+    {
+        "id": 8,
+        "name": "Luka Modrić",
+        "club": "Real Madrid",
+        "nationality": "Croatia",
+        "age": 38,
+        "position": "Midfielder",
+        "statistics": {
+            "Overall": 88,
+            "Pace": 72,
+            "Shooting": 78,
+            "Passing": 89,
+            "Dribbling": 88,
+            "Defending": 72,
+            "Physical": 66
+        }
+    },
+    {
+        "id": 9,
+        "name": "Pelé",
+        "club": null,
+        "nationality": "Brazil",
+        "age": 84,
+        "position": "Forward",
+        "statistics": null
+    },
+    {
+        "id": 10,
+        "name": "Diego Maradona",
+        "club": null,
+        "nationality": "Argentina",
+        "age": 64,
+        "position": "Forward",
+        "statistics": null
+    },
+    {
+        "id": 11,
+        "name": "Ronaldo Fenômeno",
+        "club": null,
+        "nationality": "Brazil",
+        "age": 48,
+        "position": "Forward",
+        "statistics": null
+    },
+    {
+        "id": 12,
+        "name": "Ronaldinho Gaúcho",
+        "club": null,
+        "nationality": "Brazil",
+        "age": 45,
+        "position": "Midfielder",
+        "statistics": null
+    },
+    {
+        "id": 13,
+        "name": "Zinedine Zidane",
+        "club": null,
+        "nationality": "France",
+        "age": 53,
+        "position": "Midfielder",
+        "statistics": null
+    },
+    {
+        "id": 14,
+        "name": "Johan Cruyff",
+        "club": null,
+        "nationality": "Netherlands",
+        "age": 78,
+        "position": "Forward",
+        "statistics": null
+    },
+    {
+        "id": 15,
+        "name": "Franz Beckenbauer",
+        "club": null,
+        "nationality": "Germany",
+        "age": 80,
+        "position": "Defender",
+        "statistics": null
+    }
+]
